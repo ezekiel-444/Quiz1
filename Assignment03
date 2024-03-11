@@ -1,0 +1,8 @@
+package quizes.q1.ani_loladze_1;
+
+public class Assignment03 {
+    public static void main(String[] args) {
+        // Print the path to the hidden.txt file
+        System.out.println("Path to hidden.txt: quizes/q1/ani_loladze_1/piano/bike/sky/hidden.txt");
+    }
+}
